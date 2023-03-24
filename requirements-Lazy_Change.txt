@@ -3,5 +3,5 @@ PyQt5-sip==12.7.1
 numpy==1.18.1
 opencv-python==4.2.0.32
 sklearn
-tensorflow==1.14
+tensorflow==2.11.1
 
